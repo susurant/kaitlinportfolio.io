@@ -1,6 +1,6 @@
 ---
 title: "About"
-description: "I have extensive experience using R, Python and SQL for personal and enterprise data analysis, alongside development of dashboards and automated pipelines."
+description: "I have extensive experience using R, Python and SQL to develop dashboards and automated pipelines, for both personal and enterprise data analysis."
 featured_image: '/images/Victor_Hugo-Hunchback.jpg'
 menu:
   main:
