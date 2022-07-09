@@ -5,6 +5,7 @@ theme = "ananke"
 #resourceDir = "../resources"
 #canonifyURLs = true
 publishDir = "docs"
+relativeURLs=true
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
