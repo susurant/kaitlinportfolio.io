@@ -3,7 +3,7 @@ baseURL = "https://susurant.github.io/kaitlinportfolio/"
 languageCode = "en-us"
 #theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 #resourceDir = "../resources"
-canonifyURLs = true
+relativeURLs=true
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
